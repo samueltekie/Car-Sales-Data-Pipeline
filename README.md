@@ -58,7 +58,7 @@ Total_Revenue = Price * Quantity Sold
 
 1️⃣ Clone This Repository
 
-git clone https://github.com/samueltekie/Car-Sales-Data-Pipeline.git
+git clone https://github.com/samueltekiek/Car-Sales-Data-Pipeline.git
 
 cd Car-Sales-Data-Pipeline
 
